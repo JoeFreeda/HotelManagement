@@ -1,0 +1,13 @@
+click==7.1.2
+Flask==0.12.5
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pip==20.1.1
+setuptools==47.1.0
+Werkzeug==0.16.1
+Flask-RESTful==0.3.8
+psycopg2==2.8.6
+aniso8601==8.0.0
+pytz==2020.4
+six==1.15.0
